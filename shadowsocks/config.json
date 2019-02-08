@@ -1,0 +1,11 @@
+{
+    "server": "181.215.138.176",
+    "server_port": 12345,
+    "password": "Jay123Chou",
+    "method": "aes-256-cfb",
+    "protocol": "auth_chain_a",
+    "protocol_param": "coordinate36",
+    "obfs": "tls1.2_ticket_auth",
+    "obfs_param": "coordinate35"
+}
+
